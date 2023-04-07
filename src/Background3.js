@@ -14,7 +14,7 @@ const Background3 = () => {
                 </div>
                 <div className="banner2">
                     <div className="container2">
-                        <h2>Schedule</h2>
+                        <h2 className='header3'>Schedule</h2>
                         <br/>
                         <div style={{display: 'flex', justifyContent: 'space-around'}}>
                             <p>25 Nov 2016 </p>
